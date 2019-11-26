@@ -1,0 +1,102 @@
+[
+  {
+    "vehicleId": 1,
+    "currency": "USD",
+    "price": "25982"
+  },
+  {
+    "vehicleId": 2,
+    "currency": "USD",
+    "price": "33220"
+  },
+  {
+    "vehicleId": 3,
+    "currency": "USD",
+    "price": "26232"
+  },
+  {
+    "vehicleId": 4,
+    "currency": "USD",
+    "price": "33805"
+  },
+  {
+    "vehicleId": 5,
+    "currency": "USD",
+    "price": "31831"
+  },
+  {
+    "vehicleId": 6,
+    "currency": "USD",
+    "price": "34046"
+  },
+  {
+    "vehicleId": 7,
+    "currency": "USD",
+    "price": "26825"
+  },
+  {
+    "vehicleId": 8,
+    "currency": "USD",
+    "price": "21211"
+  },
+  {
+    "vehicleId": 9,
+    "currency": "USD",
+    "price": "31877"
+  },
+  {
+    "vehicleId": 10,
+    "currency": "USD",
+    "price": "23607"
+  },
+  {
+    "vehicleId": 11,
+    "currency": "USD",
+    "price": "30889"
+  },
+  {
+    "vehicleId": 12,
+    "currency": "USD",
+    "price": "31665"
+  },
+  {
+    "vehicleId": 13,
+    "currency": "USD",
+    "price": "25001"
+  },
+  {
+    "vehicleId": 14,
+    "currency": "USD",
+    "price": "26824"
+  },
+  {
+    "vehicleId": 15,
+    "currency": "USD",
+    "price": "23295"
+  },
+  {
+    "vehicleId": 16,
+    "currency": "USD",
+    "price": "25040"
+  },
+  {
+    "vehicleId": 17,
+    "currency": "USD",
+    "price": "25316"
+  },
+  {
+    "vehicleId": 18,
+    "currency": "USD",
+    "price": "32553"
+  },
+  {
+    "vehicleId": 19,
+    "currency": "USD",
+    "price": "29938"
+  },
+  {
+    "vehicleId": 20,
+    "currency": "USD",
+    "price": "23120"
+  }
+]
